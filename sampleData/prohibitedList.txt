@@ -1,0 +1,16 @@
+# 		---- Usage ----
+# Phrases listed in this document will be removed from all files in the input directory during runtime.
+# Phrases or single words must be separated by a new line to be valid, otherwise multiple individual words may be interpreted as one phrase.
+# Preceding or ending whitespace or extra lines will be ignored. Detection is case insensitive.
+# When a '#' character is used, everything after it on the same line will be skipped.
+
+#		---- Data ----
+
+fudge
+mother fudger
+ask
+ask hole
+askhole
+bike
+count
+short
